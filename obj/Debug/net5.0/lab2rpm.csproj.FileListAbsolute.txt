@@ -1,0 +1,16 @@
+/home/kaiser/Рабочий стол/Учеба/C#/lab2rpm/bin/Debug/net5.0/lab2rpm
+/home/kaiser/Рабочий стол/Учеба/C#/lab2rpm/bin/Debug/net5.0/lab2rpm.deps.json
+/home/kaiser/Рабочий стол/Учеба/C#/lab2rpm/bin/Debug/net5.0/lab2rpm.runtimeconfig.json
+/home/kaiser/Рабочий стол/Учеба/C#/lab2rpm/bin/Debug/net5.0/lab2rpm.runtimeconfig.dev.json
+/home/kaiser/Рабочий стол/Учеба/C#/lab2rpm/bin/Debug/net5.0/lab2rpm.dll
+/home/kaiser/Рабочий стол/Учеба/C#/lab2rpm/bin/Debug/net5.0/lab2rpm.pdb
+/home/kaiser/Рабочий стол/Учеба/C#/lab2rpm/obj/Debug/net5.0/lab2rpm.csproj.AssemblyReference.cache
+/home/kaiser/Рабочий стол/Учеба/C#/lab2rpm/obj/Debug/net5.0/lab2rpm.GeneratedMSBuildEditorConfig.editorconfig
+/home/kaiser/Рабочий стол/Учеба/C#/lab2rpm/obj/Debug/net5.0/lab2rpm.AssemblyInfoInputs.cache
+/home/kaiser/Рабочий стол/Учеба/C#/lab2rpm/obj/Debug/net5.0/lab2rpm.AssemblyInfo.cs
+/home/kaiser/Рабочий стол/Учеба/C#/lab2rpm/obj/Debug/net5.0/lab2rpm.csproj.CoreCompileInputs.cache
+/home/kaiser/Рабочий стол/Учеба/C#/lab2rpm/obj/Debug/net5.0/lab2rpm.dll
+/home/kaiser/Рабочий стол/Учеба/C#/lab2rpm/obj/Debug/net5.0/refint/lab2rpm.dll
+/home/kaiser/Рабочий стол/Учеба/C#/lab2rpm/obj/Debug/net5.0/lab2rpm.pdb
+/home/kaiser/Рабочий стол/Учеба/C#/lab2rpm/obj/Debug/net5.0/lab2rpm.genruntimeconfig.cache
+/home/kaiser/Рабочий стол/Учеба/C#/lab2rpm/obj/Debug/net5.0/ref/lab2rpm.dll
